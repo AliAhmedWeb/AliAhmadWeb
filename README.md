@@ -19,6 +19,17 @@ I'm a passionate Frontend Developer who enjoys building modern, responsive, and 
 
 ---
 
+## Services
+
+*  Portfolio Websites
+* Landing Pages
+* Business Websites
+* React.js Applications
+* E-commerce Frontends
+* Website Redesign
+
+---
+
 ##  Tech Stack
 
 ### Frontend
@@ -85,6 +96,21 @@ Modern dashboard interface with analytics and clean user experience.
 * Linkedin: https://www.linkedin.com/in/ali-ahmad-webdeveloper/
 * Gmail: alikhanhi912@gmail.com
 * WhatsApp: 0306-4382254
+
+---
+##  Future Goals
+
+* Learn Backend Development
+* Master Node.js and Express.js
+* Work with Databases like MongoDB and PostgreSQL
+* Build Full-Stack Web Applications
+* Develop Secure and Scalable APIs
+* Learn Authentication and Authorization Systems
+* Master REST APIs and Backend Architecture
+* Deploy Production-Ready Applications
+* Contribute to Open-Source Projects
+* Become a Professional Full-Stack Developer
+
 
 ---
 
